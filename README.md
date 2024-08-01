@@ -1,5 +1,7 @@
 # Axe Game
 
+![Axe Game]([relative/path/to/your.gif](https://github.com/MohamedElsayedd1/Axe-Game/blob/main/GIF.gif))
+
 A simple game built using the Raylib library in C++. The objective of the game is to control a blue circle and avoid collisions with a moving red rectangle.
 
 ## Features
