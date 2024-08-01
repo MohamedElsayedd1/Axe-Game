@@ -1,7 +1,5 @@
 # Axe Game
 
-![Axe Game](https://github.com/MohamedElsayedd1/Axe-Game/blob/main/Gameplay.gif)
-
 A simple game built using the Raylib library in C++. The objective of the game is to control a blue circle and avoid collisions with a moving red rectangle.
 
 ## Features
@@ -10,6 +8,10 @@ A simple game built using the Raylib library in C++. The objective of the game i
 - A red rectangle moves vertically across the screen.
 - The game ends if the blue circle collides with the red rectangle.
 - A "Game Over!" message is displayed upon collision.
+
+<p align="center">
+    <img src="https://github.com/MohamedElsayedd1/Axe-Game/blob/main/Gameplay.gif" width="600" />
+</p>
 
 ## Installation
 
